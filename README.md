@@ -15,4 +15,12 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
