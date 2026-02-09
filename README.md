@@ -6,6 +6,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -15,6 +16,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
