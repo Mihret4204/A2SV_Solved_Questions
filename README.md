@@ -35,6 +35,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -70,5 +71,6 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
