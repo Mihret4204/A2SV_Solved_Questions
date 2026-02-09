@@ -12,6 +12,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 ## Counting
 |  |
 | ------- |
