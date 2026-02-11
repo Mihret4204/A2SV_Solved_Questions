@@ -25,6 +25,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
@@ -41,6 +42,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
@@ -108,4 +110,8 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
