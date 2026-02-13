@@ -47,6 +47,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -113,6 +114,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
@@ -130,6 +132,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
