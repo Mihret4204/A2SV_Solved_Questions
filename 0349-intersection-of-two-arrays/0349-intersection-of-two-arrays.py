@@ -3,8 +3,7 @@ class Solution:
         nums1_set=set(nums1)
         nums2_set=set(nums2)
         ans=[]
-        for i in nums1_set:
-            if i in nums2:
-                ans.append(i)
+        for n in nums1_set & nums2_set:
+            ans.append(n)
         return ans
         
