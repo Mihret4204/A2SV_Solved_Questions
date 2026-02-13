@@ -13,13 +13,11 @@ class Solution:
                 if matrix[i][j]==0:
                     colz.add(j) 
                     rowz.add(i)             
-        for m in range(row):
-                if m in rowz:
-                    for n in range(col):
-                        matrix[m][n]=0
-        for x in range(col):
-                if x in colz:
-                    for y in range(row):
-                        matrix[y][x]=0
+        for i in rowz:
+            for j in range(col):
+                matrix[i][j] = 0
+        for j in colz:
+            for i in range(row):
+                matrix[i][j] = 0
 
         print(matrix)
