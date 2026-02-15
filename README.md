@@ -27,6 +27,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -92,6 +93,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -207,4 +209,5 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
