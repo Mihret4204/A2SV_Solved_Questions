@@ -27,6 +27,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -104,6 +105,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -193,6 +196,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 ## Design
 |  |
@@ -219,6 +223,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
