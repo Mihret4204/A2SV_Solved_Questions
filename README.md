@@ -120,6 +120,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
 ## Sorting
 |  |
 | ------- |
