@@ -79,6 +79,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -123,6 +124,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +171,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -277,4 +280,12 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
