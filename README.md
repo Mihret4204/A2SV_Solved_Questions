@@ -28,6 +28,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
@@ -144,6 +145,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
@@ -170,6 +172,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
@@ -241,6 +244,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
