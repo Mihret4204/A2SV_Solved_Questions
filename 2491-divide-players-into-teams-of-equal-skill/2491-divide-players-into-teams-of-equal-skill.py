@@ -6,10 +6,8 @@ class Solution:
             return -1
         skill.sort()
         total=skill[-1]+skill[0]
-        print(total)
         for i in range(n//2):
             if skill[i]+skill[n-i-1]!=total:
                 return -1 
-            ans+=skill[i]*skill[n-i-1]
-            print(ans)   
+            ans+=skill[i]*skill[n-i-1] 
         return ans
