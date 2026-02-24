@@ -12,6 +12,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
@@ -136,6 +137,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
