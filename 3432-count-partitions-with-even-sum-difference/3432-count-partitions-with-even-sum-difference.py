@@ -6,7 +6,7 @@ class Solution:
             r=sum(nums[i+1:])
             diff.append(r-l)
         count=0
-        print(diff)
+        
         for x in diff:
             if x%2==0:
                 count+=1
