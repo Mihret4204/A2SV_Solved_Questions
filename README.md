@@ -336,4 +336,12 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
