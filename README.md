@@ -340,6 +340,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
