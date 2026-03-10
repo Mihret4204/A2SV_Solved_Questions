@@ -14,6 +14,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -150,6 +151,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
@@ -259,6 +261,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
