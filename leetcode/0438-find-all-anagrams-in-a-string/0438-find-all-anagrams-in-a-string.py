@@ -15,5 +15,5 @@ class Solution:
                 del mapping[s[i-k]]
             if mapp==mapping:
                 ans.append(i-k+1)
-            print(mapping)
+            
         return ans
