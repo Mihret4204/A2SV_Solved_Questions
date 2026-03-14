@@ -10,15 +10,15 @@ class Solution:
         if nums[0]<=nums[1]:
             inc=True
         i=0
-        print(inc,dec)
+       
         while dec and i<len(nums)-1:
-            print(nums[i],nums[i+1],8)
+            
             if nums[i]<nums[i+1]:
                 dec=False
             i+=1
         j=0
         while inc and j<len(nums)-1:
-            print(nums[j],nums[j+1],9)
+            
             if nums[j]>nums[j+1]:
                 inc=False
             j+=1
