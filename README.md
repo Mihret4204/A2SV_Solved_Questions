@@ -21,6 +21,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
@@ -111,6 +112,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
