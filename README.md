@@ -54,6 +54,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -129,9 +130,12 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0012-integer-to-roman](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
@@ -151,9 +155,11 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
@@ -366,6 +372,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
 | ------- |
@@ -374,6 +381,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
@@ -381,8 +389,25 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
