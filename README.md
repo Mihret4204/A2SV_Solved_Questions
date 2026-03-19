@@ -402,6 +402,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -410,4 +411,9 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
