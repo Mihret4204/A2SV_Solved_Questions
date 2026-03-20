@@ -17,7 +17,6 @@ class Solution:
         pre=0
         for i in range(n): 
             pre+=arr[i]
-            print(pre)
             a=((ord(s[i])+pre-97)%26)+97
             ans+=chr(a)
         return ans
