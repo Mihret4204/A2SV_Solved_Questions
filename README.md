@@ -16,6 +16,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -172,6 +173,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
@@ -441,4 +443,8 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
