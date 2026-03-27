@@ -9,6 +9,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0001-two-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
@@ -462,6 +463,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 ## Queue
 |  |
