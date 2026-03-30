@@ -407,6 +407,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -414,6 +415,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0050-powx-n](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
