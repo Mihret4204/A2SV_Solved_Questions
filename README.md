@@ -9,6 +9,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0001-two-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
@@ -171,6 +172,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
