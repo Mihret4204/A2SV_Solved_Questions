@@ -176,6 +176,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0069-sqrtx](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -479,4 +480,8 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
