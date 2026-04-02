@@ -233,6 +233,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0012-integer-to-roman](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
@@ -440,6 +441,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
