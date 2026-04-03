@@ -11,7 +11,6 @@ class Solution:
                 if i=='.':
                     continue 
                 if i=='..' :
-                    print(99)
                     if stack:
                         stack.pop()
                     else:
