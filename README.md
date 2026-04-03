@@ -66,6 +66,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -258,6 +259,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
+| [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2381-shifting-letters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
@@ -445,6 +447,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
