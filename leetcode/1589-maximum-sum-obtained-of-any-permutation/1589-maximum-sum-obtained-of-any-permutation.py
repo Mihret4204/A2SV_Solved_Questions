@@ -9,7 +9,7 @@ class Solution:
             arr[i]+=arr[i-1]        
         arr.sort(reverse=True)
         nums.sort(reverse=True)
-        print(arr,nums)
+        
 
         ans=[]
         
