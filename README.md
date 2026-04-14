@@ -21,6 +21,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0074-search-a-2d-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -321,6 +322,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -487,6 +489,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -504,6 +507,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
@@ -512,6 +516,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
