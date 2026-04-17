@@ -503,6 +503,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -512,6 +513,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0437-path-sum-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -523,6 +525,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -535,6 +538,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Backtracking
 |  |
 | ------- |
