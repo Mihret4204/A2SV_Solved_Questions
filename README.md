@@ -80,6 +80,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -212,6 +213,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Bit Manipulation
 |  |
@@ -330,6 +332,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -571,4 +574,17 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+## Segment Tree
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+## Merge Sort
+|  |
+| ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 <!---LeetCode Topics End-->
