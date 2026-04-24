@@ -25,6 +25,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -419,6 +420,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -427,6 +429,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
@@ -523,6 +526,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0437-path-sum-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
@@ -554,6 +558,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
