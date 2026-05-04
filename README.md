@@ -55,6 +55,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0575-distribute-candies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
@@ -392,6 +393,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0303-range-sum-query-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [2671-frequency-tracker](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Greedy
 |  |
@@ -480,6 +482,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -584,6 +587,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
