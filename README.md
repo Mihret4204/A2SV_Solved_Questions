@@ -540,6 +540,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -572,6 +573,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -633,11 +635,13 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
