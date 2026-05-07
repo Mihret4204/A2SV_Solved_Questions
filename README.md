@@ -91,6 +91,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
@@ -191,6 +192,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -545,6 +547,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
@@ -578,6 +581,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Backtracking
 |  |
@@ -640,6 +644,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
@@ -648,4 +653,8 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
