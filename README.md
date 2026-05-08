@@ -44,6 +44,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
@@ -473,6 +474,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -500,6 +502,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
