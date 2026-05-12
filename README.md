@@ -394,6 +394,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -517,6 +518,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0856-score-of-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
