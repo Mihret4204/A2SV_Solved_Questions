@@ -87,6 +87,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -150,6 +151,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
@@ -274,6 +276,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1552-magnetic-force-between-two-balls](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
