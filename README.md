@@ -31,6 +31,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
@@ -255,6 +256,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -355,12 +357,14 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -372,6 +376,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
