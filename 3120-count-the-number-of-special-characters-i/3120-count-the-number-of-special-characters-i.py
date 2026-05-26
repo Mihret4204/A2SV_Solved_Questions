@@ -1,12 +1,18 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
-        _map=[0]*60
+        #upper -> 26 and lower ->26
+        #65-90 (upper) , 97 - 122(lower)
+
+        upper = [False]*26
+        lower = [False]*26
+
         for c in word:
-            i=ord(c)-65
-            _map[i]+=1
-            
-        ans=0
+            if c.islower():
+                lower[ord(c)-ord('a')]=True
+            else:
+                upper[ord(c)-ord('A')]=True
+        ans = 0 
         for i in range(26):
-            if _map[i]>0 and _map[i+32]>0:
+            if upper[i] and lower[i]:
                 ans+=1
         return ans
