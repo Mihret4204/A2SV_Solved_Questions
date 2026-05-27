@@ -209,6 +209,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0728-self-dividing-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0976-largest-perimeter-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -545,6 +546,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0198-house-robber](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0198-house-robber) |
 | [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
@@ -555,6 +557,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
