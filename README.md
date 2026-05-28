@@ -70,6 +70,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0812-largest-triangle-area](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
@@ -208,6 +209,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [0812-largest-triangle-area](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -709,5 +711,6 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0812-largest-triangle-area) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
