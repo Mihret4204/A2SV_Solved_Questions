@@ -264,6 +264,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0137-single-number-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
@@ -551,6 +552,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
