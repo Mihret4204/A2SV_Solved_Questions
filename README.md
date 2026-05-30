@@ -269,6 +269,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
