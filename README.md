@@ -123,6 +123,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
@@ -260,6 +261,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -695,6 +698,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -707,6 +711,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
