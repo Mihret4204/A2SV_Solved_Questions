@@ -68,6 +68,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -482,6 +483,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
@@ -587,6 +589,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
