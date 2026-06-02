@@ -128,6 +128,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -327,6 +329,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -462,6 +465,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Design
 |  |
 | ------- |
@@ -493,6 +497,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Randomized
 |  |
 | ------- |
