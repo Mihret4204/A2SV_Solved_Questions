@@ -133,6 +133,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -244,6 +245,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -300,6 +302,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -615,6 +618,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
@@ -648,6 +652,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -670,6 +675,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
