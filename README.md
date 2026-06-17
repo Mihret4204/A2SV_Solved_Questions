@@ -395,6 +395,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Counting
 |  |
 | ------- |
@@ -423,6 +424,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
