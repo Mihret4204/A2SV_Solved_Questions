@@ -100,6 +100,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [1732-find-the-highest-altitude](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -206,6 +207,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1732-find-the-highest-altitude](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
