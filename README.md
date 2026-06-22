@@ -178,6 +178,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -382,6 +383,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0856-score-of-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -411,6 +413,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
