@@ -559,6 +559,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
@@ -706,6 +707,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -746,6 +748,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
 | ------- |
@@ -819,6 +822,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
