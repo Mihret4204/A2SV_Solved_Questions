@@ -377,6 +377,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0013-roman-to-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
@@ -637,6 +638,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0064-minimum-path-sum) |
@@ -758,6 +760,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
