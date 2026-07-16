@@ -146,6 +146,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3689-maximum-total-subarray-value-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -271,12 +272,14 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +375,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -455,6 +459,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2553-separate-the-digits-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -521,6 +526,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
