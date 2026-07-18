@@ -60,6 +60,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
+| [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -669,6 +670,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
@@ -785,6 +787,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Queue
