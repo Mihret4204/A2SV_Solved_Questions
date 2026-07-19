@@ -416,6 +416,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0856-score-of-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
@@ -562,6 +563,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -699,6 +701,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0155-min-stack](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0856-score-of-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 ## Tree
 |  |
@@ -814,6 +817,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
 | ------- |
