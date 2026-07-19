@@ -404,6 +404,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0290-word-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -524,6 +525,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -671,6 +673,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0279-perfect-squares](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
