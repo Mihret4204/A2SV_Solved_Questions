@@ -145,6 +145,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -325,6 +326,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
@@ -444,6 +446,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3614-process-string-with-special-operations-ii) |
@@ -856,6 +859,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
