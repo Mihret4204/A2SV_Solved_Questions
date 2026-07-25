@@ -415,6 +415,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -692,6 +693,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0064-minimum-path-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
@@ -818,6 +820,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
