@@ -432,6 +432,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
@@ -554,6 +555,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
@@ -707,6 +709,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
+| [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
