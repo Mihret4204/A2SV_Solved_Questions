@@ -70,6 +70,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0575-distribute-candies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
@@ -259,6 +260,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
@@ -376,6 +378,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
