@@ -282,6 +282,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -460,6 +461,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2381-shifting-letters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -612,6 +614,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
