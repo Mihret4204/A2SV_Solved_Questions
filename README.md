@@ -62,6 +62,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
@@ -262,6 +263,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
@@ -662,6 +664,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Rolling Hash
@@ -706,6 +709,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
@@ -725,6 +729,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
