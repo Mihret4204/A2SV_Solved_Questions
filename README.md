@@ -183,6 +183,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -263,6 +264,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 | [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
@@ -629,6 +631,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 ## Union-Find
 |  |
 | ------- |
@@ -952,4 +955,8 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
