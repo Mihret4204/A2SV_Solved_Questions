@@ -50,6 +50,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0330-patching-array) |
@@ -731,6 +732,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0198-house-robber](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
