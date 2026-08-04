@@ -158,6 +158,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -224,6 +225,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3731-find-missing-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -419,6 +421,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [3536-maximum-product-of-two-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
