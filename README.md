@@ -810,6 +810,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -852,6 +853,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
@@ -932,6 +934,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
