@@ -7,61 +7,89 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
+| [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0704-binary-search) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
+| [0812-largest-triangle-area](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0896-monotonic-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -71,8 +99,12 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
+| [1306-jump-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
@@ -80,23 +112,57 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
+| [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [1732-find-the-highest-altitude](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2126-destroying-asteroids](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2381-shifting-letters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,8 +182,10 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0290-word-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -128,24 +196,39 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2671-frequency-tracker](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3731-find-missing-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,9 +241,16 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1732-find-the-highest-altitude](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1732-find-the-highest-altitude) |
+| [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
+| [2574-left-and-right-sum-differences](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2574-left-and-right-sum-differences) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Math
 |  |
 | ------- |
@@ -169,42 +259,83 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0523-continuous-subarray-sum) |
+| [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
+| [0812-largest-triangle-area](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0812-largest-triangle-area) |
+| [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1840-maximum-building-height](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2413-smallest-even-multiple) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0367-valid-perfect-square](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
@@ -212,19 +343,36 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0371-sum-of-two-integers) |
+| [0461-hamming-distance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0868-binary-gap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +380,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0056-merge-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
@@ -244,21 +393,37 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1630-arithmetic-subarrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1630-arithmetic-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1840-maximum-building-height](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1840-maximum-building-height) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2126-destroying-asteroids](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3731-find-missing-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -267,26 +432,34 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0013-roman-to-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
+| [0131-palindrome-partitioning](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0609-find-duplicate-file-in-system) |
+| [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [0856-score-of-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -294,11 +467,24 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1528-shuffle-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1528-shuffle-string) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
 | [2381-shifting-letters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2381-shifting-letters-ii) |
 | [2418-sort-the-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2418-sort-the-people) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -306,12 +492,18 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1657-determine-if-two-strings-are-close) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3527-find-the-most-common-response](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3527-find-the-most-common-response) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -320,64 +512,95 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1260-shift-2d-grid](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2553-separate-the-digits-in-an-array) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3614-process-string-with-special-operations-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3093-longest-common-suffix-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0475-heaters) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0633-sum-of-square-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0881-boats-to-save-people) |
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2460-apply-operations-to-an-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [2671-frequency-tracker](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Greedy
 |  |
@@ -386,6 +609,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0179-largest-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0179-largest-number) |
 | [0330-patching-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0330-patching-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0860-lemonade-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0860-lemonade-change) |
@@ -393,32 +617,49 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0969-pancake-sorting](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0969-pancake-sorting) |
 | [0976-largest-perimeter-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0976-largest-perimeter-triangle) |
 | [1029-two-city-scheduling](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1029-two-city-scheduling) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2007-find-original-array-from-doubled-array) |
+| [2126-destroying-asteroids](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2126-destroying-asteroids) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0498-diagonal-traverse](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0661-image-smoother) |
 | [0832-flipping-an-image](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Counting Sort
@@ -430,6 +671,8 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Rolling Hash
 |  |
@@ -450,11 +693,13 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
 ## Linked List
 |  |
 | ------- |
@@ -462,6 +707,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -470,27 +716,61 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0203-remove-linked-list-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0413-arithmetic-slices) |
+| [0486-predict-the-winner](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
+| [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
+| [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
+| [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
 | [0856-score-of-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0856-score-of-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1598-crawler-log-folder) |
 ## Tree
 |  |
@@ -499,17 +779,40 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+| [0437-path-sum-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1306-jump-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1306-jump-game-iii) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3310-remove-methods-from-project) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -517,9 +820,12 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0437-path-sum-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0437-path-sum-iii) |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -531,23 +837,45 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [0100-same-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
+| [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1306-jump-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1306-jump-game-iii) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0239-sliding-window-maximum) |
+| [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0374-guess-number-higher-or-lower) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -559,9 +887,84 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0456-132-pattern) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
+| [3477-fruits-into-baskets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1649-create-sorted-array-through-instructions](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1649-create-sorted-array-through-instructions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0797-all-paths-from-source-to-target) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3310-remove-methods-from-project) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0802-find-eventual-safe-states) |
+| [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0812-largest-triangle-area) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2101-detonate-the-maximum-bombs) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
