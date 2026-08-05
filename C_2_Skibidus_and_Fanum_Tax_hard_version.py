@@ -5,3 +5,4 @@ for _ in range(t):
     b=list(map(int,input().split()))
     
     
+    

@@ -1,31 +1,39 @@
-t=int(input())
+import sys
+input = sys.stdin.readline
+import bisect
 
+INF = int(1e18)
+
+def solve():
+    n, m = map(int, input().split())
+    va = list(map(int, input().split()))
+    vb = list(map(int, input().split()))
+    vb.sort()
+    prev = -INF
+    
+    for i in range(n):
+        options = []
+        
+        if va[i] >= prev:
+            options.append(va[i])
+    
+        target = prev + va[i]
+        idx = bisect.bisect_left(vb, target)
+        
+        if idx < m:
+            val = vb[idx] - va[i]
+            if val >= prev:
+                options.append(val)
+        
+        if not options:
+            print("NO")
+            return
+        
+        prev = min(options) 
+    
+    print("YES")
+
+
+t = int(input())
 for _ in range(t):
-    n,m=map(int,input().split())
-    a=list(map(int,input().split()))
-    b=list(map(int,input().split()))    
-
-    def possible(x:int,y:int):
-        mini=x
-        for j in b:
-            if j-x<=y and mini>j-x:
-                mini=y-x
-        if y>=mini:
-            return True
-        return False
-    con=True
-    c=0
-    for i in range(len(a)-1):
-        if a[i]<=a[i+1]:
-            continue
-        else:
-            if c>0:
-                con=False
-                break
-            elif possible(a[i],a[i-1]):
-                c+=1
-    if con:
-        print('YES')
-    else:
-        print('NO')
-            
+    solve()
