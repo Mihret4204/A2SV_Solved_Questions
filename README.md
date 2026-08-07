@@ -82,6 +82,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0704-binary-search](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0811-subdomain-visit-count) |
@@ -744,6 +745,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0553-optimal-division](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0553-optimal-division) |
 | [0647-palindromic-substrings](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1137-n-th-tribonacci-number) |
 | [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
