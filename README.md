@@ -80,6 +80,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0722-remove-comments](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0722-remove-comments) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -200,6 +201,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0781-rabbits-in-forest) |
 | [0791-custom-sort-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0791-custom-sort-string) |
@@ -611,6 +613,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [2671-frequency-tracker](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 ## Greedy
 |  |
@@ -695,6 +698,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## String Matching
 |  |
@@ -721,6 +725,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0206-reverse-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0328-odd-even-linked-list) |
 | [0641-design-circular-deque](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0641-design-circular-deque) |
+| [0705-design-hashset](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
