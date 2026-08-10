@@ -289,6 +289,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1247-minimum-swaps-to-make-strings-equal](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1247-minimum-swaps-to-make-strings-equal) |
 | [1406-stone-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1840-maximum-building-height](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1840-maximum-building-height) |
@@ -692,6 +693,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [0877-stone-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Rolling Hash
 |  |
@@ -771,6 +773,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [1340-jump-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1871-jump-game-vii) |
 | [2050-parallel-courses-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2305-fair-distribution-of-cookies) |
@@ -999,9 +1002,19 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
