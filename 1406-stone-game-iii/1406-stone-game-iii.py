@@ -1,18 +1,21 @@
 class Solution:
     def stoneGameIII(self, stoneValue: List[int]) -> str:
         n = len(stoneValue)
-        dp = [float('-inf')]*n
-        dp.append(0)
+        arr = [float('-inf')]*n
+        arr.append(0)
 
+        
         for i in range(n-1,-1,-1):
             total = 0
-            for j in range(i,min(i+3,n)):
+            for j in range(i,min(n,i+3)):
                 total+=stoneValue[j]
-                dp[i]=max(dp[i],total-dp[j+1])
+                arr[i]=max(arr[i],total-arr[j+1])
+    
 
-        if dp[0]==0:
-            return 'Tie'
-        elif dp[0]> 0:
-            return 'Alice'
+        
+        if arr[0]>0:
+            return "Alice"
+        if arr[0]<0:
+            return "Bob"
         else:
-            return 'Bob'
+            return "Tie"
