@@ -147,6 +147,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2574-left-and-right-sum-differences](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2574-left-and-right-sum-differences) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3161-block-placement-queries) |
@@ -223,6 +224,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2671-frequency-tracker](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2671-frequency-tracker) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -429,6 +431,7 @@ Solutions to algorithmic and data structure problems solved during A2SV practice
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3536-maximum-product-of-two-digits) |
