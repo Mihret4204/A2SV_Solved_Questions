@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0258-add-digits) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 ## Dynamic Programming
 |  |
@@ -36,5 +37,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
