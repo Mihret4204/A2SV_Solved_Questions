@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0263-ugly-number) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -22,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
 ## Hash Table
 |  |
@@ -64,4 +68,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
