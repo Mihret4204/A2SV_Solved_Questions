@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
+| [1184-distance-between-bus-stops](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1184-distance-between-bus-stops) |
 | [1386-cinema-seat-allocation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
