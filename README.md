@@ -4,17 +4,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
+| [1184-distance-between-bus-stops](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1184-distance-between-bus-stops) |
 | [1386-cinema-seat-allocation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0263-ugly-number) |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
@@ -23,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
@@ -36,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Greedy
 |  |
 | ------- |
@@ -68,16 +75,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->

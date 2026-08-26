@@ -1,18 +1,22 @@
 class Solution:
     def stoneGameII(self, piles: List[int]) -> int:
-        n = len(piles)
-        dp = [[0] * (n + 1) for _ in range(n)]
-        suffixSum = [0] * n
-        suffixSum[-1] = piles[-1]
+        n =  len(piles)
+        suf=[0]*n
+        pre = 0
+        s=sum(piles)
+        for i in range(n):
+            suf[i]=s-pre
+            pre+=piles[i]
 
-        for x in range(n - 2, - 1, - 1):
-            suffixSum[x] = suffixSum[x+1] + piles[x]
+        @cache
+        def dp(i,m):
+            if i+2*m>=n:
+                return suf[i]
+            mx=0
+            for j in range(1,2*m+1):
+                val = suf[i]-dp(i+j,max(m,j))
+                mx=max(mx,val)
+            return mx
 
-        for x in range(n - 1, - 1, - 1):
-            for y in range(1, n + 1):
-                if x + 2 * y >= n:
-                    dp[x][y] = suffixSum[x]
-                else:
-                    for j in range(1, 2 * y + 1):
-                        dp[x][y] = max(dp[x][y], suffixSum[x] - dp[x +j][max(y, j)])
-        return dp[0][1]
+
+        return dp(0,1)
