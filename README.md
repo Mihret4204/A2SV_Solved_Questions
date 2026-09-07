@@ -16,6 +16,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
@@ -27,9 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
@@ -82,6 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -96,6 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
