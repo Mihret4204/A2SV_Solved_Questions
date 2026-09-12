@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Mihret4204/A2SV_Solved_Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
