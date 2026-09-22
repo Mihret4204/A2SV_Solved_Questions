@@ -1,0 +1,13 @@
+t = int(input())
+
+for _ in range(t):
+    a,b,c = map(int,input().split())
+    if a>b:
+        print('First')
+    elif b>a:
+        print('Second')
+    else:
+        if c%2!=0:
+            print('First')
+        else:
+            print('Second')
