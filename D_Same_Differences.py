@@ -6,6 +6,5 @@ for _ in range(t):
     ans = 0
     _map = defaultdict(list)
     for i in range(n):
-        _map[i].append(n-i)
-    print(_map)
-    print(ans)
+        _map[]
+    
